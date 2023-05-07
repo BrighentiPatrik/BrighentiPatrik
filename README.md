@@ -27,20 +27,18 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 👨🏼‍💻 I’m currently working on **Backend Microservices with NodeJS & Plugin to intereact with Iot Objects with Java**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📚 I’m currently learning **Pattern Design, Docker and Embedded System**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in **Real-time System & Cybersecurity. Please see my [thesis](https://github.com/BrighentiPatrik/Tool-for-the-replication-of-datasets-of-CAN-frames-on-virtual-socket-respecting-the-timescales/blob/3838ba3ac22709b1f102bed9206eeedd09de2bd4/Thesis/Tesi_Brighenti_Patrik.pdf) about automotive security**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 👨🏻‍🎓 I am strongly convinced that it is necessary to work and study simultaneously in our sector. I plan to start my **master degree** soon
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- ♟️ I am a **chess enthusiast**. Please play with me, this in my [Lichess profile](https://lichess.org/@/Peci99)
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- ✉️ Feel free to reach me out **brighenti.patrik@yahoo.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
 
 
 
@@ -88,7 +86,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me &ensp;<a href="linkedin.com/in/patrik-brighenti-56512b201" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a></h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me &ensp;<a href="linkedin.com/in/patrik-brighenti-56512b201" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> &ensp;<a href="https://lichess.org/@/Peci99" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a></h2></summary>
     
   </ul>
 </div>
