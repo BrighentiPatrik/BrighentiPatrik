@@ -7,7 +7,7 @@
 <!--h1 without bottom border-->
 <div align="center">
   <img src='octo.gif' width='15%'>
-  <img src='octo.gif' width='15%'>
+  <img src='giphy.gif' width='15%'>
   <img src='octo.gif' width='15%'>
 </div>
 
