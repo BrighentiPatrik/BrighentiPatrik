@@ -8,6 +8,7 @@
 <div align="center">
   <img src='octo.gif' width='15%'>
   <img src='octo.gif' width='15%'>
+  <img src='octo.gif' width='15%'>
 </div>
 
 <!--- snake -->
