@@ -6,8 +6,8 @@
 
 <!--h1 without bottom border-->
 <div align="center">
-  <img src='giphyBug.gif' width='15%'>
-  <img src='giphy.gif' width='15%'>
+  <img src='giphySheldon.gif' width='15%'>
+  <img src='giphyProgrammer.gif' width='15%'>
   <img src='giphyChess.gif' width='15%'>
 </div>
 
