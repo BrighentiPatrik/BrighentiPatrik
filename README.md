@@ -8,7 +8,7 @@
 <div align="center">
   <img src='giphySheldon.gif' width='15%'>
   <img src='giphyProgrammer.gif' width='15%'>
-  <img src='giphyChess.gif' width='15%'>
+  <img src='giphyChessHorses.gif' width='15%'>
 </div>
 
 <!--- snake -->
