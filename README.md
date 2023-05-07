@@ -27,7 +27,7 @@
 
 
 <!--Intro start-->
-- 👨🏼‍💻 I’m currently working on **Backend Microservices with NodeJS & Plugin to intereact with Iot Objects with Java**
+- 👨🏼‍💻 I’m currently working on **Backend Microservices with NodeJS & Plugin to interact with Iot Objects with Java**
 
 - 📚 I’m currently learning **Pattern Design, Docker and Embedded System**
 
