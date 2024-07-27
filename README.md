@@ -37,7 +37,7 @@
 
 - ✉️ Feel free to reach me out **brighenti.patrik@yahoo.com**
 
-- 📄 [Resume] (https://github.com/BrighentiPatrik/Tool-for-the-replication-of-datasets-of-CAN-frames-on-virtual-socket-respecting-the-timescales/blob/3838ba3ac22709b1f102bed9206eeedd09de2bd4/Thesis/Tesi_Brighenti_Patrik.pdf) 
+- 📄 [Resume](https://github.com/BrighentiPatrik/BrighentiPatrik/blob/main/CV_PatrikBrighenti_202406_English.pdf) 
 
 
 
