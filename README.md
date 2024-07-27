@@ -27,8 +27,6 @@
 
 
 <!--Intro start-->
-- 👨🏼‍💻 I’m currently working on **Backend Microservices with NodeJS & Plugin to interact with Iot Objects with Java**
-
 - 📚 I’m currently learning **Pattern Design, Docker and Embedded System**
 
 - ☁️ I've keen interest in **Real-time System & Cybersecurity. Please see my [thesis](https://github.com/BrighentiPatrik/Tool-for-the-replication-of-datasets-of-CAN-frames-on-virtual-socket-respecting-the-timescales/blob/3838ba3ac22709b1f102bed9206eeedd09de2bd4/Thesis/Tesi_Brighenti_Patrik.pdf) about automotive security**
@@ -39,6 +37,7 @@
 
 - ✉️ Feel free to reach me out **brighenti.patrik@yahoo.com**
 
+- 📄 Resume 
 
 
 
