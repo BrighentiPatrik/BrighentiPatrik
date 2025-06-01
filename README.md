@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in **Real-time System & Cybersecurity. Please see my [thesis](https://github.com/BrighentiPatrik/Tool-for-the-replication-of-datasets-of-CAN-frames-on-virtual-socket-respecting-the-timescales/blob/3838ba3ac22709b1f102bed9206eeedd09de2bd4/Thesis/Tesi_Brighenti_Patrik.pdf) about automotive security**
 
-- 👨🏻‍🎓 I am strongly convinced that it is necessary to work and study simultaneously in our sector. I plan to start my **master degree** soon
+- 👨🏻‍🎓 I am strongly convinced that it is necessary to work and study simultaneously in our sector. I'm currently attending a **master's degree in cybersecurity**
 
 - ♟️ I am a **chess enthusiast**. Please play with me, this in my [Lichess profile](https://lichess.org/@/Peci99)
 
